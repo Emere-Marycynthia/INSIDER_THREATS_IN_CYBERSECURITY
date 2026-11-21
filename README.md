@@ -1,2 +1,2 @@
 # INSIDER_THREATS_IN_CYBERSECURITY
-Cybersecurity research exploring insider threats, SOC monitoring, IAM, threat detection, risk assessment, and effective prevention and mitigation strategies.
+An academic cybersecurity project exploring insider threats, their causes, security implications, and strategies for prevention, detection, and mitigation.
